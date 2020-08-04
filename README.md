@@ -9,6 +9,13 @@
 <br>
 
 
+- 🔭 I’m currently working on simple projects for myself<br>
+- 🌱 I’m currently learning Django and HTML+CSS+JS<br>
+- 👯 I’m looking to collaborate on Game Development<br>
+- 🤔 I’m looking for help with Django<br>
+- 📫 How to reach me: Canimore@yandex.ua<br>
+- 📚 Reading more about Python, С#, and Microsoft <br>
+
 
 <details >
     <summary>About me</summary>
@@ -30,26 +37,22 @@
 <summary>My certificates</summary>
 <p align="center">
 
-<a href= "https://github.com/GnomGad/GnomGad/tree/master/certificates/EvgeniiLazarenko-Python-20IVT2-certificate.pdf"><img src="icons/PythonInstituteOpenEDG.png" height="52" width="204"/></a>
-
+<a href= "https://github.com/GnomGad/GnomGad/blob/master/certificates/EvgeniiLazarenko-Python-20IVT2-certificate.pdf"><img src="https://github.com/GnomGad/GnomGad/blob/master/icons/PythonInstituteOpenEDG.png" height="52" width="204"/></a>
 
 </p>
 </details>
 
 <br>
 
-</details>
-<summary>My statistics</summary>
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GnomGad&layout=compact&theme=gruvbox)
 
-
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=GnomGad&show_icons=true&theme=gruvbox)
 
 </div>
-</details>
+
 <!--
 **GnomGad/GnomGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

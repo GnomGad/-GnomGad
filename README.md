@@ -1,7 +1,8 @@
 
 <div align="center">
 <h1>Welcome</h1>
-<img src="icons/Home.png"  />
+<br>
+<img src="https://github.com/GnomGad/GnomGad/tree/master/icons/Home.png"/>
 <br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=GnomGad.GnomGad" alt="visitor badge" />

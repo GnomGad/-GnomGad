@@ -1,9 +1,9 @@
-<h1 align="center">Welcome</h1>
 
-<div  align="center">
-
-![](icons/Home.png)
-
+<div align="center">
+<h1>Welcome</h1>
+<img src="icons/Home.png"  />
+<br>
+<br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=GnomGad.GnomGad" alt="visitor badge" />
 </div>
 
@@ -22,12 +22,7 @@
         I have experience with small freelance projects and make small projects for myself.
     </div>
     <br>
-- 🔭 I’m currently working on simple projects for myself<br>
-- 🌱 I’m currently learning Django and HTML+CSS+JS<br>
-- 👯 I’m looking to collaborate on Game Development<br>
-- 🤔 I’m looking for help with Django<br>
-- 📫 How to reach me: Canimore@yandex.ua<br>
-- 📚 Reading more about Python, С#, and Microsoft <br>
+
 </details>
 
 <br>
@@ -44,13 +39,13 @@
 
 <br>
 
-<details>
+</details>
 <summary>My statistics</summary>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GnomGad&layout=compact&theme=gruvbox)
 
-<br>
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GnomGad&show_icons=true&theme=gruvbox)
 

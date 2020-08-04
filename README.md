@@ -27,31 +27,20 @@
         <br>
         I have experience with small freelance projects and make small projects for myself.
     </div>
-    <br>
-
 </details>
-
-<br>
 
 <details>
 <summary>My certificates</summary>
 <p align="center">
-
 <a href= "https://github.com/GnomGad/GnomGad/blob/master/certificates/EvgeniiLazarenko-Python-20IVT2-certificate.pdf"><img src="https://github.com/GnomGad/GnomGad/blob/master/icons/PythonInstituteOpenEDG.png" height="52" width="204"/></a>
-
 </p>
 </details>
 
 <br>
-
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GnomGad&layout=compact&theme=gruvbox)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=GnomGad&show_icons=true&theme=gruvbox)
-
-</div>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnomGad&layout=compact&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GnomGad&show_icons=true&theme=gruvbox&include_all_commits=true&line_height=21" alt="GnomGad's Github Stats" />
+</p>
 
 <!--
 **GnomGad/GnomGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

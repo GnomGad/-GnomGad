@@ -33,7 +33,7 @@
 <summary>My certificates</summary>
 <p align="center">
 
-<a href= "https://github.com/GnomGad/GnomGad/certificates/EvgeniiLazarenko-Python-20IVT2-certificate.pdf"><img src="icons/PythonInstituteOpenEDG.png" height="52" width="204"/></a>
+<a href= "https://github.com/GnomGad/GnomGad/tree/master/certificates/EvgeniiLazarenko-Python-20IVT2-certificate.pdf"><img src="icons/PythonInstituteOpenEDG.png" height="52" width="204"/></a>
 
 
 </p>

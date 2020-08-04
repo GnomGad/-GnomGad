@@ -4,29 +4,30 @@
 
 ![](icons/Home.png)
 
-
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=GnomGad.GnomGad" alt="visitor badge" />
 </div>
 
 <br>
 
-- 🔭 I’m currently working on simple projects for myself
-- 🌱 I’m currently learning Django and HTML+CSS+JS
-- 👯 I’m looking to collaborate on Game Development
-- 🤔 I’m looking for help with Django
-- 📫 How to reach me: Canimore@yandex.ua
-- 📚 Reading more about Python, С#, and Microsoft 
+
 
 <details >
     <summary>About me</summary>
     <div >
+    <br>
         Hello, My name is Eugene and I am a programmer from Donetsk.
         <br>
         I am an Informatics and Computer Engineering student at the Physics and Technology faculty.
         <br>
         I have experience with small freelance projects and make small projects for myself.
     </div>
+    <br>
+- 🔭 I’m currently working on simple projects for myself<br>
+- 🌱 I’m currently learning Django and HTML+CSS+JS<br>
+- 👯 I’m looking to collaborate on Game Development<br>
+- 🤔 I’m looking for help with Django<br>
+- 📫 How to reach me: Canimore@yandex.ua<br>
+- 📚 Reading more about Python, С#, and Microsoft <br>
 </details>
 
 <br>

@@ -1,9 +1,11 @@
 <h1 align="center">Welcome</h1>
 
+<div  align="center">
+
 ![](icons/Home.png)
 
 
-<div align="center">
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=GnomGad.GnomGad" alt="visitor badge" />
 </div>
 

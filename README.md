@@ -29,11 +29,11 @@
 
 ## More info
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnomgad&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GnomGad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GnomGad&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GnomGad&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnomgad&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=gnomgad&theme=radical)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GnomGad&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GnomGad&theme=radical)]
 
 <!--
 **GnomGad/GnomGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

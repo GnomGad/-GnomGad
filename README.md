@@ -4,7 +4,7 @@
 
 <h1 align="center">WELCOME <img src="https://visitor-badge.laobi.icu/badge?page_id=GnomGad.GnomGad" alt="visitor badge" /></h1> 
 
-### Total time coded since Oct 15 2021
+## Total time coded since Oct 15 2021
 
 [![wakatime](https://wakatime.com/badge/user/acd4725e-5655-414f-9ef4-0a588103f102.svg)](https://wakatime.com/@acd4725e-5655-414f-9ef4-0a588103f102)
 
@@ -22,12 +22,12 @@
 ## IDE
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white) ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## DATABASE
+## Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
+------------
 
-## MORE INFO
+## More info
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnomgad&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

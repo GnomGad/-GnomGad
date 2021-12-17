@@ -1,5 +1,5 @@
 
-![](https://github.com/GnomGad/GnomGad/blob/master/icons/Home.png)
+<!--![](https://github.com/GnomGad/GnomGad/blob/master/icons/Home.png)-->
 
 
 <h1 align="center">WELCOME <img src="https://visitor-badge.laobi.icu/badge?page_id=GnomGad.GnomGad" alt="visitor badge" /></h1> 

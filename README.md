@@ -43,8 +43,8 @@
 ------------
 
 ## More info
-[![trophy](https://github-profile-trophy.vercel.app/?username=GnomGad&theme=radical)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GnomGad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GnomGad&theme=radical)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GnomGad&show_icons=true&theme=radical)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GnomGad&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GnomGad&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
